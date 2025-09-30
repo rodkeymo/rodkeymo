@@ -2,7 +2,7 @@
 
 I'm a passionate full-stack engineer with expertise in building scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js), **PHP**, and **Python**. With a strong foundation in both frontend and backend technologies, I enjoy creating seamless user experiences and robust systems that solve real-world problems. My interests extend to **AI** and **MCP (Model Context Protocol)** development, where I explore integrating AI with external systems to enhance application intelligence and data connectivity.
 
-> **Developer Quote:** *"Code is like humor. When you have to explain it, it's bad."* – Cory House
+> **Developer Quote:** *"It works on my machine."* – Every Developer Ever
 
 ---
 
