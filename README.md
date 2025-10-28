@@ -1,6 +1,6 @@
 # Hi there, I'm Rodney Kipkemoi 👋
 
-I'm a passionate full-stack engineer with expertise in building scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js), **PHP**, **Rust**and **Python**. With a strong foundation in both frontend and backend technologies, I enjoy creating seamless user experiences and robust systems that solve real-world problems. My interests extend to **AI**, **MCP (Model Context Protocol)** development, and blockchain where I explore integrating AI with external systems to enhance application intelligence and data connectivity.
+I'm a passionate full-stack engineer with expertise in building scalable web applications using the **MERN stack** (MongoDB, Express.js, React, Node.js), **Typescript** **PHP**, **Rust** and **Python**. With a strong foundation in both frontend and backend technologies, I enjoy creating seamless user experiences and robust systems that solve real-world problems. My interests extend to **AI**, **MCP (Model Context Protocol)** development, and blockchain where I explore integrating AI with external systems to enhance application intelligence and data connectivity.
 
 > **Developer Quote:** *"It works on my machine."* – Every Developer Ever
 
